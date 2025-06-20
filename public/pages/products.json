@@ -1,141 +1,176 @@
-
 {
-  "meta": {
-    "title": "Brass Products - Ashapura Brass Industries",
-    "description": "Comprehensive range of precision brass components for automotive, pneumatic, aerospace, and hydraulic applications"
-  },
   "hero": {
     "type": "image",
+    "title": "Precision Components for Critical Applications",
     "enabled": true,
-    "title": "Precision Brass Product Range",
-    "subtitle": "High-quality components for critical applications",
-    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80"
+    "subtitle": "High-quality brass precision components engineered for automotive, electric, and pneumatic industries",
+    "backgroundImage": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e"
+  },
+  "meta": {
+    "title": "Metalloid | Precision Brass Components | Automotive & Industrial Parts",
+    "description": "Leading manufacturer of precision brass components for automotive, electric, and pneumatic applications. 25 years of engineering excellence."
+  },
+  "products": {
+    "categories": [
+      {
+        "id": "automotive",
+        "name": "Automotive Components",
+        "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b",
+        "products": [
+          {
+            "id": "spark-plugs",
+            "name": "Precision Spark Plugs",
+            "image": "https://images.unsplash.com/photo-1586864387967-14b243ffc4d1",
+            "description": "High-performance brass spark plugs designed for optimal engine efficiency and reliability",
+            "applications": [
+              "Passenger vehicles",
+              "Commercial trucks",
+              "Racing automobiles",
+              "Agricultural machinery"
+            ],
+            "specifications": [
+              "Brass construction",
+              "Temperature range: -40°C to 150°C",
+              "Precision thread tolerance: ±0.01mm",
+              "Compatible with multiple engine types"
+            ]
+          },
+          {
+            "id": "calipers",
+            "name": "Precision Brake Calipers",
+            "image": "https://images.unsplash.com/photo-1593941707874-9ad9f1169e75",
+            "description": "Advanced brass brake calipers engineered for superior stopping performance",
+            "applications": [
+              "Passenger cars",
+              "Heavy-duty vehicles",
+              "Performance automobiles",
+              "Industrial machinery"
+            ],
+            "specifications": [
+              "Corrosion-resistant brass alloy",
+              "Pressure rating: 2000 PSI",
+              "Weight: 1.2-2.5 kg",
+              "Precision machined surfaces"
+            ]
+          }
+        ],
+        "description": "High-precision automotive components manufactured to meet the most demanding industry standards"
+      },
+      {
+        "id": "electric",
+        "name": "Electrical Components",
+        "image": "https://images.unsplash.com/photo-1516737490857-848138dace26",
+        "products": [
+          {
+            "id": "electrical-sockets",
+            "name": "Precision Electrical Sockets",
+            "image": "https://images.unsplash.com/photo-1519492673425-0d2f1c3f9d21",
+            "description": "Precision-engineered brass electrical sockets for reliable power connections",
+            "applications": [
+              "Industrial control panels",
+              "Home electrical systems",
+              "Telecommunications equipment",
+              "Medical devices"
+            ],
+            "specifications": [
+              "Brass material",
+              "Current rating: 10-50A",
+              "IP65 water resistance",
+              "Temperature range: -20°C to 85°C"
+            ]
+          },
+          {
+            "id": "electrical-pins",
+            "name": "Precision Electrical Pins",
+            "image": "https://images.unsplash.com/photo-1581092919463-c4f26c509d8d",
+            "description": "High-precision brass electrical pins for critical connection requirements",
+            "applications": [
+              "Electronic assemblies",
+              "Automotive electrical systems",
+              "Industrial machinery",
+              "Communication equipment"
+            ],
+            "specifications": [
+              "Brass alloy composition",
+              "Diameter range: 0.5-5mm",
+              "Tolerance: ±0.02mm",
+              "High conductivity"
+            ]
+          }
+        ],
+        "description": "Cutting-edge electrical components designed for maximum reliability and performance"
+      },
+      {
+        "id": "pneumatic",
+        "name": "Pneumatic Components",
+        "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+        "products": [
+          {
+            "id": "pneumatic-valves",
+            "name": "Precision Pneumatic Valves",
+            "image": "https://images.unsplash.com/photo-1581093458791-0d6c9d3a7a86",
+            "description": "Advanced brass pneumatic valves for precise air and fluid control",
+            "applications": [
+              "Industrial automation",
+              "Manufacturing equipment",
+              "HVAC systems",
+              "Robotics"
+            ],
+            "specifications": [
+              "Brass construction",
+              "Pressure range: 0-10 bar",
+              "Temperature tolerance: -10°C to 120°C",
+              "Flow rate: 0.5-5 m³/min"
+            ]
+          },
+          {
+            "id": "pressure-gauges",
+            "name": "Precision Pressure Gauges",
+            "image": "https://images.unsplash.com/photo-1581093458791-0d6c9d3a7a86",
+            "description": "High-accuracy brass pressure measurement instruments",
+            "applications": [
+              "Industrial processes",
+              "Hydraulic systems",
+              "Compressed air networks",
+              "Aerospace applications"
+            ],
+            "specifications": [
+              "Brass housing",
+              "Accuracy class: 1.0",
+              "Measurement range: 0-600 bar",
+              "Dial size: 63-250mm"
+            ]
+          }
+        ],
+        "description": "Precision pneumatic components engineered for maximum performance and reliability"
+      }
+    ],
+    "categoriesTitle": "Our Product Categories",
+    "allProductsTitle": "Complete Product Range",
+    "categoriesSubtitle": "Find the perfect precision components for your specific application",
+    "allProductsSubtitle": "Comprehensive solutions backed by 25 years of manufacturing expertise"
   },
   "sections": {
-    "products": {
-      "type": "products",
-      "enabled": true,
-      "title": "Product Categories",
-      "subtitle": "Comprehensive range of precision brass components",
-      "items": []
-    },
     "cta": {
       "type": "cta",
+      "title": "Need Custom Precision Components?",
       "enabled": true,
-      "title": "Need a Custom Quote?",
-      "subtitle": "Our engineering team is ready to help you with custom solutions for your specific requirements.",
+      "subtitle": "Our engineering team is ready to develop tailored solutions for your unique requirements",
       "primaryCTA": {
         "text": "Request Custom Quote",
         "action": "/contact"
       },
       "secondaryCTA": {
         "text": "Technical Support",
-        "action": "tel:+91-288-2710234"
+        "action": "tel:+1-800-METALLOID"
       }
+    },
+    "products": {
+      "type": "products",
+      "items": [],
+      "title": "Explore Our Product Range",
+      "enabled": true,
+      "subtitle": "Precision engineering solutions for diverse industrial applications"
     }
-  },
-  "products": {
-    "allProductsTitle": "Complete Brass Product Range",
-    "allProductsSubtitle": "Precision-engineered components for diverse industrial applications",
-    "categoriesTitle": "Browse Product Categories",
-    "categoriesSubtitle": "Find the perfect brass components for your specific industry needs",
-    "categories": [
-      {
-        "id": "brass-fittings",
-        "name": "Brass Fittings",
-        "description": "High-precision brass fittings for plumbing and industrial applications",
-        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-        "products": [
-          {
-            "id": "brass-elbow",
-            "name": "Brass Elbow Fittings",
-            "description": "Precision-machined brass elbow fittings for directional piping connections",
-            "specifications": ["Size: 1/4\" to 4\"", "Material: CZ121 Brass", "Thread: BSP/NPT"],
-            "applications": ["Plumbing", "Hydraulic Systems", "Gas Distribution"],
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=400&q=80"
-          },
-          {
-            "id": "brass-tee",
-            "name": "Brass Tee Fittings",
-            "description": "T-junction fittings for branching pipe connections",
-            "specifications": ["Size: 1/4\" to 3\"", "Material: CZ121 Brass", "Pressure: Up to 16 bar"],
-            "applications": ["Pipeline Networks", "Distribution Systems", "HVAC"],
-            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=400&q=80"
-          }
-        ]
-      },
-      {
-        "id": "brass-valves",
-        "name": "Brass Valves",
-        "description": "Precision brass valves for flow control applications",
-        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
-        "products": [
-          {
-            "id": "brass-ball",
-            "name": "Brass Ball Valves",
-            "description": "Quarter-turn ball valves for reliable flow control",
-            "specifications": ["Size: 1/2\" to 4\"", "Material: CW617N Brass", "Working Pressure: 40 bar"],
-            "applications": ["Water Systems", "Gas Lines", "Industrial Processes"],
-            "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=400&q=80"
-          },
-          {
-            "id": "brass-gate",
-            "name": "Brass Gate Valves",
-            "description": "Linear motion valves for on/off control",
-            "specifications": ["Size: 1/2\" to 6\"", "Material: CC754S Brass", "Temperature: -20°C to 180°C"],
-            "applications": ["Water Distribution", "Steam Lines", "Chemical Processing"],
-            "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=400&q=80"
-          }
-        ]
-      },
-      {
-        "id": "machined-components",
-        "name": "Machined Components",
-        "description": "Custom CNC machined brass components to specification",
-        "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=600&q=80",
-        "products": [
-          {
-            "id": "brass-flanges",
-            "name": "Brass Flanges",
-            "description": "Precision flanges for pipe connections and equipment mounting",
-            "specifications": ["Size: 1/2\" to 12\"", "Standards: ANSI, DIN, JIS", "Material: Various Brass Alloys"],
-            "applications": ["Pipe Connections", "Pressure Vessels", "Marine Applications"],
-            "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=400&q=80"
-          },
-          {
-            "id": "brass-bushings",
-            "name": "Brass Bushings",
-            "description": "Precision sleeve bearings and bushings",
-            "specifications": ["Inner Dia: 5mm to 200mm", "Material: CuZn39Pb3", "Tolerance: ±0.02mm"],
-            "applications": ["Bearing Applications", "Automotive Systems", "Machinery"],
-            "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=400&q=80"
-          }
-        ]
-      },
-      {
-        "id": "electrical-components",
-        "name": "Electrical Components",
-        "description": "Brass electrical components for reliable connections",
-        "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=600&q=80",
-        "products": [
-          {
-            "id": "brass-terminals",
-            "name": "Brass Terminals",
-            "description": "High-conductivity brass electrical terminals",
-            "specifications": ["Current Rating: 10A to 250A", "Material: CuZn37", "Finish: Nickel Plated"],
-            "applications": ["Control Panels", "Switchboards", "Electronics"],
-            "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=400&q=80"
-          },
-          {
-            "id": "cable-glands",
-            "name": "Brass Cable Glands",
-            "description": "Waterproof cable entry and strain relief solutions",
-            "specifications": ["Thread: M12 to M63", "Material: CW617N Brass", "IP Rating: IP68"],
-            "applications": ["Marine Equipment", "Industrial Electronics", "Outdoor Installations"],
-            "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=400&q=80"
-          }
-        ]
-      }
-    ]
   }
 }
