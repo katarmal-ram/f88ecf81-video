@@ -1,50 +1,61 @@
-
 {
-  "meta": {
-    "title": "Contact Us - Ashapura Brass Industries",
-    "description": "Get in touch with Ashapura Brass Industries for your precision brass manufacturing needs"
-  },
   "hero": {
     "type": "image",
+    "title": "Get In Touch with Metalloid",
     "enabled": true,
-    "title": "Contact Us",
-    "subtitle": "Get in touch with our experts",
-    "description": "Ready to discuss your brass manufacturing requirements? Contact our team today.",
-    "backgroundImage": "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?auto=format&fit=crop&w=2000&q=80"
+    "subtitle": "Your Precision Manufacturing Partner Awaits",
+    "description": "We're ready to discuss your custom component requirements. Our expert team is committed to delivering high-quality precision solutions tailored to your specific needs.",
+    "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc9c4d267"
+  },
+  "meta": {
+    "title": "Metalloid - Precision Components Manufacturing Contact",
+    "description": "Connect with Metalloid's precision manufacturing experts. 24/7 customer support, quick response times, and custom solutions for your industrial needs."
   },
   "sections": {
-    "contactInfo": {
-      "type": "contact-info",
-      "enabled": true,
-      "title": "Contact Information",
-      "subtitle": "Multiple ways to reach us",
-      "items": [
-        {
-          "type": "address",
-          "title": "Our Location",
-          "content": "Plot No. 42, Brass Industrial Estate, Jamnagar - 361004, Gujarat, India",
-          "icon": "map-pin"
-        },
-        {
-          "type": "phone",
-          "title": "Phone",
-          "content": "+91 288 271 0234",
-          "icon": "phone"
-        },
-        {
-          "type": "email",
-          "title": "Email",
-          "content": "info@ashapurabrass.com",
-          "icon": "mail"
-        }
-      ]
-    },
     "contactForm": {
       "type": "contact-form",
+      "items": [],
+      "title": "Send Us Your Requirements",
       "enabled": true,
-      "title": "Send us a Message",
-      "subtitle": "Fill out the form and we'll get back to you within 24 hours",
-      "items": []
+      "subtitle": "Fill out the form and our team will respond within 4 business hours"
+    },
+    "contactInfo": {
+      "type": "contact-info",
+      "items": [
+        {
+          "icon": "map-pin",
+          "type": "address",
+          "title": "Our Manufacturing Headquarters",
+          "content": "123 Industrial Park Road, Manufacturing Zone, State 54321, United States"
+        },
+        {
+          "icon": "phone",
+          "type": "phone",
+          "title": "Customer Support Hotline",
+          "content": "+1 (555) 123-4567"
+        },
+        {
+          "icon": "mail",
+          "type": "email",
+          "title": "Email Our Sales Team",
+          "content": "sales@metalloid.com"
+        },
+        {
+          "icon": "linkedin",
+          "type": "social",
+          "title": "Connect on LinkedIn",
+          "content": "linkedin.com/company/metalloid"
+        },
+        {
+          "icon": "whatsapp",
+          "type": "messaging",
+          "title": "WhatsApp Support",
+          "content": "+1 (555) 987-6543"
+        }
+      ],
+      "title": "Multiple Ways to Connect",
+      "enabled": true,
+      "subtitle": "Accessible, responsive, and always ready to support your precision manufacturing needs"
     }
   }
 }
