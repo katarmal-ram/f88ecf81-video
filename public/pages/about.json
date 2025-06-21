@@ -7,7 +7,7 @@
     "type": "image",
     "title": "About Metalloid",
     "enabled": true,
-    "subtitle": "Engineering Precision Since 1998",
+    "subtitle": "Excellence in Precision Manufacturing Since 1998",
     "description": "Metalloid is a leading precision components manufacturer with 25 years of expertise in delivering high-quality brass components across automotive, electric, and pneumatic industries. Our commitment to innovation and quality drives our continuous growth and customer satisfaction.",
     "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
   },
@@ -35,17 +35,17 @@
       "items": [
         {
           "id": "manufacturing-excellence",
-          "year": "2022",
+          "year": 2022,
           "title": "Manufacturing Excellence Award",
           "authority": "National Manufacturing Association",
-          "description": "Recognized for outstanding precision engineering and innovative manufacturing techniques"
+          "description": "Recognized for outstanding precision manufacturing and innovative production techniques"
         },
         {
           "id": "export-achievement",
-          "year": "2021",
+          "year": 2021,
           "title": "Export Excellence Award",
-          "authority": "Chamber of Commerce",
-          "description": "Acknowledged for significant international market expansion and global trade contributions"
+          "authority": "International Trade Council",
+          "description": "Acknowledged for significant contributions to international manufacturing exports"
         }
       ],
       "title": "Awards & Recognition",
@@ -76,27 +76,27 @@
       "type": "company-journey",
       "items": [
         {
-          "year": "1998",
+          "year": 1998,
           "title": "Company Foundation",
           "description": "Established with a vision to revolutionize precision brass component manufacturing"
         },
         {
-          "year": "2005",
+          "year": 2005,
           "title": "First Major Expansion",
           "description": "Expanded manufacturing facilities and introduced advanced CNC machinery"
         },
         {
-          "year": "2012",
-          "title": "ISO Certification",
-          "description": "Achieved ISO 9001 certification, setting new industry quality standards"
+          "year": 2012,
+          "title": "Quality Certification Achievement",
+          "description": "Obtained ISO 9001 certification, setting new industry standards"
         },
         {
-          "year": "2018",
-          "title": "International Market Entry",
-          "description": "Successfully expanded global distribution network across multiple continents"
+          "year": 2018,
+          "title": "International Market Penetration",
+          "description": "Expanded global distribution network across multiple continents"
         },
         {
-          "year": "2022",
+          "year": 2022,
           "title": "Technology Innovation",
           "description": "Implemented advanced laser marking and precision engineering technologies"
         }
@@ -127,22 +127,22 @@
       "items": [
         {
           "id": "overview",
-          "content": "Metalloid is a premier precision brass components manufacturer with 25 years of industry expertise. We specialize in delivering high-quality components for automotive, electric, and pneumatic sectors, serving global markets with unparalleled engineering precision and customer-centric solutions.",
+          "content": "Metalloid is a premier precision brass components manufacturer with 25 years of industry expertise. We specialize in delivering high-quality components for automotive, electric, and pneumatic sectors, serving global markets with unparalleled precision and innovation.",
           "highlights": [
             "ISO 9001:2015 Certified",
-            "Advanced CNC Technology",
+            "Advanced CNC Manufacturing",
             "Global Distribution Network",
             "24/7 Customer Support",
             "Custom Engineering Solutions",
+            "Laser Marking Capabilities",
             "Sustainable Manufacturing Practices",
-            "99.9% Quality Assurance",
-            "Rapid Prototyping Capabilities"
+            "99.9% On-Time Delivery Rate"
           ]
         }
       ],
       "title": "Company Overview",
       "enabled": true,
-      "subtitle": "Precision Engineering, Global Impact"
+      "subtitle": "Leading Precision Manufacturing with Innovation"
     },
     "manufacturingProcess": {
       "type": "manufacturing-process",
@@ -169,24 +169,24 @@
           "id": "quality",
           "step": 4,
           "title": "Quality Control",
-          "description": "Rigorous multi-stage inspection and testing procedures"
+          "description": "Rigorous multi-stage quality inspection and testing procedures"
         },
         {
           "id": "finishing",
           "step": 5,
           "title": "Surface Treatment",
-          "description": "Advanced finishing techniques including laser marking and coating"
+          "description": "Advanced surface finishing and laser marking techniques"
         },
         {
           "id": "delivery",
           "step": 6,
           "title": "Packaging & Delivery",
-          "description": "Secure packaging and efficient global logistics"
+          "description": "Secure packaging and efficient global logistics management"
         }
       ],
       "title": "Manufacturing Process",
       "enabled": true,
-      "subtitle": "Systematic Precision from Concept to Delivery"
+      "subtitle": "Systematic Approach to Precision Manufacturing"
     }
   }
 }
