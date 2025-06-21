@@ -20,7 +20,7 @@
           {
             "id": "spark-plugs",
             "name": "Precision Spark Plugs",
-            "image": "https://images.unsplash.com/photo-1586864387967-14b243ffc4d1",
+            "image": "https://images.unsplash.com/photo-1586191582351-49c1b4bf3a6d",
             "description": "High-performance brass spark plugs designed for optimal engine efficiency and reliability",
             "applications": [
               "Passenger vehicles",
@@ -29,17 +29,17 @@
               "Agricultural machinery"
             ],
             "specifications": [
-              "Brass construction",
+              "Brass alloy construction",
               "Temperature range: -40°C to 150°C",
-              "Precision thread tolerance: ±0.01mm",
-              "Compatible with multiple engine types"
+              "ISO 9001:2015 certified",
+              "Custom threading available"
             ]
           },
           {
             "id": "calipers",
             "name": "Precision Brake Calipers",
-            "image": "https://images.unsplash.com/photo-1593941707874-9ad9f1169e75",
-            "description": "Advanced brass brake calipers engineered for superior stopping performance",
+            "image": "https://images.unsplash.com/photo-1593941707874-9b1e1c0c9d84",
+            "description": "Precision-engineered brass brake calipers for superior braking performance",
             "applications": [
               "Passenger cars",
               "Heavy-duty vehicles",
@@ -47,25 +47,25 @@
               "Industrial machinery"
             ],
             "specifications": [
-              "Corrosion-resistant brass alloy",
-              "Pressure rating: 2000 PSI",
-              "Weight: 1.2-2.5 kg",
-              "Precision machined surfaces"
+              "High-strength brass alloy",
+              "Corrosion-resistant coating",
+              "Precision machined tolerances",
+              "SAE standard compliance"
             ]
           }
         ],
-        "description": "High-precision automotive components manufactured to meet the most demanding industry standards"
+        "description": "Advanced automotive components engineered for maximum performance and durability"
       },
       {
         "id": "electric",
         "name": "Electrical Components",
-        "image": "https://images.unsplash.com/photo-1516737490857-848138dace26",
+        "image": "https://images.unsplash.com/photo-1516737490857-848138dace41",
         "products": [
           {
             "id": "electrical-sockets",
             "name": "Precision Electrical Sockets",
-            "image": "https://images.unsplash.com/photo-1519492673425-0d2f1c3f9d21",
-            "description": "Precision-engineered brass electrical sockets for reliable power connections",
+            "image": "https://images.unsplash.com/photo-1581092919463-c4f26c0b8d1f",
+            "description": "High-precision brass electrical sockets for reliable electrical connections",
             "applications": [
               "Industrial control panels",
               "Home electrical systems",
@@ -73,32 +73,32 @@
               "Medical devices"
             ],
             "specifications": [
-              "Brass material",
-              "Current rating: 10-50A",
-              "IP65 water resistance",
-              "Temperature range: -20°C to 85°C"
+              "Multiple contact configurations",
+              "High conductivity brass",
+              "UL and CE certified",
+              "Temperature resistant"
             ]
           },
           {
             "id": "electrical-pins",
             "name": "Precision Electrical Pins",
-            "image": "https://images.unsplash.com/photo-1581092919463-c4f26c509d8d",
-            "description": "High-precision brass electrical pins for critical connection requirements",
+            "image": "https://images.unsplash.com/photo-1600783245891-47674a0ad9c4",
+            "description": "Precision-machined brass electrical pins for robust electrical connections",
             "applications": [
-              "Electronic assemblies",
-              "Automotive electrical systems",
+              "Consumer electronics",
               "Industrial machinery",
-              "Communication equipment"
+              "Automotive electronics",
+              "Aerospace systems"
             ],
             "specifications": [
-              "Brass alloy composition",
-              "Diameter range: 0.5-5mm",
-              "Tolerance: ±0.02mm",
-              "High conductivity"
+              "Multiple diameter options",
+              "Gold-plated variants",
+              "High-precision tolerances",
+              "Corrosion-resistant"
             ]
           }
         ],
-        "description": "Cutting-edge electrical components designed for maximum reliability and performance"
+        "description": "Innovative electrical components designed for reliability and performance"
       },
       {
         "id": "pneumatic",
@@ -109,45 +109,45 @@
             "id": "pneumatic-valves",
             "name": "Precision Pneumatic Valves",
             "image": "https://images.unsplash.com/photo-1581093458791-0d6c9d3a7a86",
-            "description": "Advanced brass pneumatic valves for precise air and fluid control",
+            "description": "High-performance brass pneumatic valves for precise air and fluid control",
             "applications": [
-              "Industrial automation",
-              "Manufacturing equipment",
+              "Manufacturing automation",
               "HVAC systems",
-              "Robotics"
+              "Robotics",
+              "Industrial machinery"
             ],
             "specifications": [
-              "Brass construction",
-              "Pressure range: 0-10 bar",
-              "Temperature tolerance: -10°C to 120°C",
-              "Flow rate: 0.5-5 m³/min"
+              "Multiple pressure ratings",
+              "Brass and brass alloy construction",
+              "ISO 9001 certified",
+              "Custom flow configurations"
             ]
           },
           {
             "id": "pressure-gauges",
             "name": "Precision Pressure Gauges",
             "image": "https://images.unsplash.com/photo-1581093458791-0d6c9d3a7a86",
-            "description": "High-accuracy brass pressure measurement instruments",
+            "description": "Accurate brass pressure measurement instruments for critical applications",
             "applications": [
               "Industrial processes",
               "Hydraulic systems",
-              "Compressed air networks",
-              "Aerospace applications"
+              "Compressed air systems",
+              "Petrochemical industry"
             ],
             "specifications": [
-              "Brass housing",
-              "Accuracy class: 1.0",
-              "Measurement range: 0-600 bar",
-              "Dial size: 63-250mm"
+              "Multiple scale options",
+              "High-precision measurement",
+              "Stainless steel and brass construction",
+              "ASME B40.1 compliant"
             ]
           }
         ],
-        "description": "Precision pneumatic components engineered for maximum performance and reliability"
+        "description": "Advanced pneumatic solutions for precise industrial control and measurement"
       }
     ],
     "categoriesTitle": "Our Product Categories",
     "allProductsTitle": "Complete Product Range",
-    "categoriesSubtitle": "Find the perfect precision components for your specific application",
+    "categoriesSubtitle": "Find the perfect precision components for your specific requirements",
     "allProductsSubtitle": "Comprehensive solutions backed by 25 years of manufacturing expertise"
   },
   "sections": {
@@ -170,7 +170,7 @@
       "items": [],
       "title": "Explore Our Product Range",
       "enabled": true,
-      "subtitle": "Precision engineering solutions for diverse industrial applications"
+      "subtitle": "Precision engineering solutions for automotive, electric, and pneumatic industries"
     }
   }
 }
