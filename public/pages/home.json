@@ -2,32 +2,32 @@
   "hero": {
     "cta": {
       "primary": "Explore Components",
-      "secondary": "Get a Quote",
+      "secondary": "Get Custom Quote",
       "primaryAction": "/products",
       "secondaryAction": "/contact"
     },
     "type": "video",
-    "title": "Precision Engineering, Unmatched Performance",
+    "title": "Precision Engineering Excellence",
     "enabled": true,
-    "subtitle": "Delivering high-quality brass precision components for critical industrial applications",
+    "subtitle": "Manufacturing superior brass components for critical industrial applications",
     "backgroundVideo": "https://example.com/manufacturing-precision-video.mp4"
   },
   "meta": {
-    "title": "Metalloid - Precision Brass Components Manufacturing",
-    "description": "Leading precision brass component manufacturer with 25 years of engineering excellence and global distribution network"
+    "title": "Metalloid - Precision Brass Components | Industrial Manufacturing",
+    "description": "Leading precision brass component manufacturer with 25 years of expertise, serving automotive, electrical, and pneumatic industries nationwide."
   },
   "sections": {
     "cta": {
       "type": "cta",
       "title": "Ready to Transform Your Manufacturing Needs?",
       "enabled": true,
-      "subtitle": "Partner with Metalloid for cutting-edge precision components tailored to your specifications",
+      "subtitle": "Experience unparalleled precision and quality with Metalloid's custom component solutions",
       "primaryCTA": {
-        "text": "View Products",
+        "text": "View Product Range",
         "action": "/products"
       },
       "secondaryCTA": {
-        "text": "Contact Sales",
+        "text": "Contact Experts",
         "action": "/contact"
       }
     },
@@ -36,13 +36,13 @@
       "items": [
         {
           "id": "minimum-order",
-          "answer": "We offer flexible order quantities ranging from prototype runs to large-scale production, accommodating diverse customer needs.",
+          "answer": "We offer flexible order quantities ranging from prototype batches to large-scale production runs, tailored to your specific requirements.",
           "question": "What are your minimum order quantities?"
         },
         {
           "id": "lead-time",
           "answer": "Standard lead times range from 2-6 weeks depending on component complexity and order volume, with expedited options available.",
-          "question": "What are your typical production lead times?"
+          "question": "What are typical production lead times?"
         },
         {
           "id": "quality",
@@ -51,13 +51,13 @@
         },
         {
           "id": "customization",
-          "answer": "Yes, we specialize in custom precision component manufacturing with comprehensive engineering support and rapid prototyping capabilities.",
+          "answer": "Yes, we specialize in custom precision manufacturing with laser marking, advanced CAD/CAM design support, and comprehensive prototyping services.",
           "question": "Can you handle custom component designs?"
         }
       ],
       "title": "Frequently Asked Questions",
       "enabled": true,
-      "subtitle": "Get instant answers about our precision manufacturing services"
+      "subtitle": "Get instant answers about our precision manufacturing capabilities"
     },
     "stats": {
       "type": "stats",
@@ -81,7 +81,7 @@
       ],
       "title": "Our Achievements",
       "enabled": true,
-      "subtitle": "Delivering precision and excellence across global markets"
+      "subtitle": "Delivering precision engineering excellence across global markets"
     },
     "expertise": {
       "type": "expertise",
@@ -109,12 +109,24 @@
             "Socket Pins",
             "Electrical Plugs",
             "Connector Assemblies",
-            "Terminal Blocks"
+            "Power Distribution Components"
+          ]
+        },
+        {
+          "id": "pneumatic",
+          "name": "Pneumatic Systems",
+          "image": "https://example.com/pneumatic-components.jpg",
+          "description": "Advanced brass components for pneumatic and fluid control systems across multiple industries",
+          "applications": [
+            "Pressure Gauge Components",
+            "Valve Assemblies",
+            "Fluid Control Fittings",
+            "Precision Valves"
           ]
         }
       ],
-      "subtitle": "Precision Engineering Across Critical Sectors",
-      "description": "Metalloid delivers superior precision components across multiple industries, combining advanced manufacturing techniques with unparalleled engineering expertise."
+      "subtitle": "Delivering specialized solutions across critical industrial sectors",
+      "description": "With 25 years of engineering expertise, we provide precision brass components that meet the most demanding industrial standards and specifications."
     },
     "whyChooseUs": {
       "type": "why-choose-us",
@@ -123,24 +135,30 @@
           "id": "quality",
           "icon": "shield-check",
           "title": "Uncompromising Quality Standards",
-          "description": "Our ISO-certified processes and state-of-the-art quality control ensure every component meets the highest industry specifications."
+          "description": "Our ISO-certified processes and advanced quality control ensure every component meets the highest precision engineering standards."
         },
         {
           "id": "experience",
           "icon": "calendar",
           "title": "25 Years of Manufacturing Excellence",
-          "description": "Decades of specialized experience translate into deep technical knowledge and consistently superior precision components."
+          "description": "Decades of specialized experience translate into deep technical knowledge and consistently superior manufacturing solutions."
         },
         {
           "id": "technology",
           "icon": "cog",
           "title": "Advanced Manufacturing Technology",
-          "description": "Cutting-edge equipment and continuous technological investment enable us to deliver innovative, high-performance solutions."
+          "description": "State-of-the-art equipment and continuous technological investment enable us to deliver cutting-edge precision components."
+        },
+        {
+          "id": "support",
+          "icon": "headphones",
+          "title": "24/7 Technical Customer Support",
+          "description": "Our dedicated engineering team provides comprehensive support, from initial consultation through post-delivery assistance."
         }
       ],
       "title": "Why Choose Metalloid",
       "enabled": true,
-      "subtitle": "Your Trusted Partner in Precision Manufacturing"
+      "subtitle": "Your trusted partner in precision component manufacturing"
     },
     "testimonials": {
       "type": "testimonials",
@@ -151,7 +169,7 @@
           "image": "https://example.com/professional-headshot-1.jpg",
           "rating": 5,
           "company": "AutoTech Innovations",
-          "content": "Metalloid's precision components have been crucial to our product performance. Their engineering support and consistent quality are unmatched.",
+          "content": "Metalloid's precision components have been crucial to our automotive systems. Their quality and reliability are unmatched in the industry.",
           "designation": "Chief Procurement Officer"
         },
         {
@@ -160,18 +178,13 @@
           "image": "https://example.com/professional-headshot-2.jpg",
           "rating": 5,
           "company": "ElectroSystems Inc.",
-          "content": "We've partnered with Metalloid for over a decade. Their reliability and technical expertise continue to exceed our expectations.",
-          "designation": "Director of Engineering"
+          "content": "We've partnered with Metalloid for over a decade. Their custom manufacturing capabilities consistently exceed our expectations.",
+          "designation": "Engineering Director"
         }
       ],
       "title": "Client Success Stories",
       "enabled": true,
-      "subtitle": "Trusted by Industry Leaders Worldwide"
+      "subtitle": "Trusted by industry leaders worldwide"
     }
-  },
-  "_instructions": {
-    "usage": "Dynamic home page content showcasing Metalloid's precision manufacturing capabilities",
-    "purpose": "Highlight technical expertise and customer-focused approach",
-    "content_tone": "Professional, innovative, reliable"
   }
 }
