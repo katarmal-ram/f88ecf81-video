@@ -33,25 +33,23 @@
           "id": "oem-manufacturing",
           "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
           "title": "OEM Manufacturing Services",
-          "description": "Metalloid specializes in original equipment manufacturer (OEM) services, delivering precision-engineered brass components that meet the highest industry standards. Our expertise spans automotive, electric, and pneumatic sectors.",
+          "description": "Metalloid specializes in original equipment manufacturer (OEM) services, providing precision-engineered brass components for automotive, electric, and pneumatic applications. Our advanced manufacturing capabilities ensure high-quality, custom solutions.",
           "capabilities": [
             "Custom Component Design",
-            "Precision Machining",
-            "Material Selection Expertise",
-            "Rapid Prototyping",
-            "Large-Scale Production"
+            "Precision Brass Machining",
+            "High-Volume Production",
+            "Rapid Prototyping"
           ]
         },
         {
           "id": "laser-marking",
           "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
           "title": "Laser Marking Services",
-          "description": "Our advanced laser marking technology ensures precise, permanent identification and branding of components. We provide high-quality marking solutions for traceability, serialization, and aesthetic customization.",
+          "description": "Our state-of-the-art laser marking technology provides permanent, high-precision identification and branding for precision components. We ensure clear, durable markings that meet the most stringent industry standards.",
           "capabilities": [
+            "Permanent Component Identification",
             "High-Precision Marking",
-            "Multiple Material Compatibility",
-            "Permanent Identification",
-            "Complex Design Capabilities",
+            "Multiple Marking Styles",
             "Quick Turnaround"
           ]
         },
@@ -59,19 +57,18 @@
           "id": "customer-support",
           "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
           "title": "24/7 Customer Support",
-          "description": "Metalloid provides round-the-clock customer support to ensure seamless communication, rapid problem resolution, and continuous project management. Our dedicated team is always ready to assist you.",
+          "description": "Metalloid provides round-the-clock customer support to ensure seamless communication and rapid problem resolution. Our dedicated team is committed to delivering exceptional service and technical assistance.",
           "capabilities": [
-            "Instant Communication",
+            "Immediate Response",
             "Technical Consultation",
-            "Project Tracking",
-            "Rapid Response Times",
-            "Comprehensive Support"
+            "Flexible Support Channels",
+            "Expert Problem Solving"
           ]
         }
       ],
       "title": "Our Service Offerings",
       "enabled": true,
-      "subtitle": "Comprehensive Precision Manufacturing Solutions Across Multiple Industries"
+      "subtitle": "Comprehensive Precision Manufacturing Solutions for Diverse Industrial Needs"
     },
     "capabilities": {
       "type": "capabilities",
@@ -93,45 +90,45 @@
               "value": "2-4 Weeks"
             }
           ],
-          "description": "Our state-of-the-art manufacturing facility enables high-volume, precision component production with exceptional efficiency and reliability."
+          "description": "Our state-of-the-art manufacturing facility enables high-volume, precision component production with rapid turnaround times and consistent quality."
         },
         {
           "id": "technical-expertise",
-          "title": "Technical Engineering Mastery",
+          "title": "Technical Engineering Excellence",
           "metrics": [
             {
               "label": "Manufacturing Technologies",
-              "value": "12+ Advanced Techniques"
+              "value": "12+ Advanced Machining Platforms"
             },
             {
               "label": "Industry Experience",
-              "value": "25 Years"
+              "value": "25 Years of Expertise"
             },
             {
               "label": "Custom Solution Capability",
-              "value": "100% Adaptable Design"
+              "value": "100% Tailored Designs"
             }
           ],
-          "description": "With 25 years of engineering experience, we leverage cutting-edge technologies to deliver innovative, high-performance precision components."
+          "description": "With 25 years of experience and cutting-edge technologies, we deliver innovative, custom-engineered precision components."
         },
         {
           "id": "quality-standards",
           "title": "Precision and Quality Assurance",
           "metrics": [
             {
-              "label": "Tolerance Precision",
-              "value": "±0.01mm"
+              "label": "Machining Precision",
+              "value": "±0.01mm Tolerance"
             },
             {
-              "label": "Quality Compliance",
-              "value": "ISO 9001:2015"
+              "label": "Quality Rate",
+              "value": "99.8% First-Pass Quality"
             },
             {
-              "label": "Defect Rate",
-              "value": "<0.5%"
+              "label": "Certifications",
+              "value": "ISO 9001:2015 Certified"
             }
           ],
-          "description": "Our rigorous quality control processes ensure exceptional precision, consistency, and reliability in every component we manufacture."
+          "description": "We maintain the highest quality standards through rigorous testing, precision machining, and continuous improvement processes."
         }
       ],
       "title": "Our Capabilities",
@@ -144,37 +141,37 @@
         {
           "step": 1,
           "title": "Initial Consultation",
-          "description": "Comprehensive project assessment, understanding client requirements, and defining precise specifications."
+          "description": "Understand client requirements, technical specifications, and project goals through comprehensive initial consultation."
         },
         {
           "step": 2,
           "title": "Design and Engineering",
-          "description": "Collaborative design process, creating detailed technical drawings and 3D prototypes using advanced CAD technologies."
+          "description": "Develop detailed component designs using advanced CAD/CAM technologies, ensuring optimal performance and manufacturability."
         },
         {
           "step": 3,
-          "title": "Material Selection",
-          "description": "Carefully selecting optimal brass alloys and materials to meet specific performance and durability requirements."
+          "title": "Precision Manufacturing",
+          "description": "Utilize state-of-the-art CNC machining and precision brass manufacturing techniques to create high-quality components."
         },
         {
           "step": 4,
-          "title": "Precision Manufacturing",
-          "description": "Utilizing advanced CNC machining and precision manufacturing techniques to create components with exceptional accuracy."
+          "title": "Quality Control",
+          "description": "Conduct comprehensive quality inspections using advanced metrology equipment to verify dimensional accuracy and performance."
         },
         {
           "step": 5,
-          "title": "Quality Inspection",
-          "description": "Rigorous multi-stage quality control, including dimensional verification, material testing, and performance evaluation."
+          "title": "Surface Finishing",
+          "description": "Apply specialized surface treatments, including laser marking, coating, and final precision adjustments."
         },
         {
           "step": 6,
           "title": "Delivery and Support",
-          "description": "Careful packaging, timely delivery, and ongoing technical support to ensure complete customer satisfaction."
+          "description": "Package components securely and provide ongoing technical support and consultation throughout the product lifecycle."
         }
       ],
       "title": "Our Manufacturing Process",
       "enabled": true,
-      "subtitle": "Systematic Approach Ensuring Excellence in Every Component"
+      "subtitle": "Systematic Approach to Precision Component Engineering"
     }
   }
 }
