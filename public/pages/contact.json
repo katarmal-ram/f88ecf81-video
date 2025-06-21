@@ -26,18 +26,18 @@
           "icon": "map-pin",
           "type": "address",
           "title": "Our Manufacturing Headquarters",
-          "content": "123 Industrial Park Road, Manufacturing Zone, State 54321, United States"
+          "content": "123 Industrial Park Road, Manufacturing Zone, Industrial City, State 54321"
         },
         {
           "icon": "phone",
           "type": "phone",
-          "title": "Customer Support Hotline",
+          "title": "Direct Sales Line",
           "content": "+1 (555) 123-4567"
         },
         {
           "icon": "mail",
           "type": "email",
-          "title": "Email Our Sales Team",
+          "title": "Business Inquiries",
           "content": "sales@metalloid.com"
         },
         {
@@ -55,7 +55,7 @@
       ],
       "title": "Multiple Ways to Connect",
       "enabled": true,
-      "subtitle": "Accessible, responsive, and always ready to support your precision manufacturing needs"
+      "subtitle": "Accessible, responsive, and ready to support your precision manufacturing needs"
     }
   }
 }
