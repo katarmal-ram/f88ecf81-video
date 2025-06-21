@@ -80,7 +80,7 @@
     ]
   },
   "company": {
-    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=300&fit=crop",
+    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=300&h=200&fit=crop",
     "name": "Metalloid Precision Components",
     "tagline": "Precision Engineering Excellence",
     "description": "Metalloid is a leading brass precision components manufacturer with 25 years of expertise in delivering high-quality OEM solutions across automotive, electric, and pneumatic sectors. We pride ourselves on our innovative manufacturing capabilities and unwavering commitment to precision."
@@ -91,7 +91,7 @@
     "timing": [
       {
         "hours": "9:00 AM - 6:00 PM",
-        "label": "Monday - Friday"
+        "label": "Mon - Fri"
       },
       {
         "hours": "9:00 AM - 1:00 PM",
